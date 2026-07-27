@@ -66,7 +66,7 @@ it is the user's configured default. If neither chooses, omit `-m` and let openc
 default.
 
 Models use the `provider/model` format (e.g. `anthropic/claude-sonnet-4`, `opencode/gpt-5.4`,
-`pioneer/Qwen/Qwen3-235B`). Custom providers configured via `opencode auth login` appear
+`openai/gpt-5.4`). Custom providers configured via `opencode auth login` appear
 alongside built-in ones. **Never invent a model ID.** `opencode models` is the only source of
 truth — treat its output as the allowlist.
 
