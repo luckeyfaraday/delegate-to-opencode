@@ -1,0 +1,10 @@
+# Run artifacts
+opencode-router/
+*.log
+raw.log
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
